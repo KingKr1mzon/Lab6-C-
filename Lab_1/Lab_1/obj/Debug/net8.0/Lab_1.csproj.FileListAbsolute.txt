@@ -1,0 +1,14 @@
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab_1\Lab_1\bin\Debug\net8.0\Lab_1.exe
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab_1\Lab_1\bin\Debug\net8.0\Lab_1.deps.json
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab_1\Lab_1\bin\Debug\net8.0\Lab_1.runtimeconfig.json
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab_1\Lab_1\bin\Debug\net8.0\Lab_1.dll
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab_1\Lab_1\bin\Debug\net8.0\Lab_1.pdb
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab_1\Lab_1\obj\Debug\net8.0\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab_1\Lab_1\obj\Debug\net8.0\Lab_1.AssemblyInfoInputs.cache
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab_1\Lab_1\obj\Debug\net8.0\Lab_1.AssemblyInfo.cs
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab_1\Lab_1\obj\Debug\net8.0\Lab_1.csproj.CoreCompileInputs.cache
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab_1\Lab_1\obj\Debug\net8.0\Lab_1.dll
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab_1\Lab_1\obj\Debug\net8.0\refint\Lab_1.dll
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab_1\Lab_1\obj\Debug\net8.0\Lab_1.pdb
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab_1\Lab_1\obj\Debug\net8.0\Lab_1.genruntimeconfig.cache
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab_1\Lab_1\obj\Debug\net8.0\ref\Lab_1.dll

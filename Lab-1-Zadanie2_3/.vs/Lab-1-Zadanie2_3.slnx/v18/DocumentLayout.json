@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semestr 4\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\OOP_Csharp\\Lab-1-Zadanie2_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C223951B-32EA-CE60-C539-04E5245C1179}|Lab-1-Zadanie2_3\\Lab-1-Zadanie2_3.csproj|d:\\semestr 4\\\u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\oop_csharp\\lab-1-zadanie2_3\\lab-1-zadanie2_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C223951B-32EA-CE60-C539-04E5245C1179}|Lab-1-Zadanie2_3\\Lab-1-Zadanie2_3.csproj|solutionrelative:lab-1-zadanie2_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C223951B-32EA-CE60-C539-04E5245C1179}|Lab-1-Zadanie2_3\\Lab-1-Zadanie2_3.csproj|d:\\semestr 4\\\u044F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\oop_csharp\\lab-1-zadanie2_3\\lab-1-zadanie2_3\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C223951B-32EA-CE60-C539-04E5245C1179}|Lab-1-Zadanie2_3\\Lab-1-Zadanie2_3.csproj|solutionrelative:lab-1-zadanie2_3\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Money.cs",
+              "DocumentMoniker": "D:\\Semestr 4\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\OOP_Csharp\\Lab-1-Zadanie2_3\\Lab-1-Zadanie2_3\\Money.cs",
+              "RelativeDocumentMoniker": "Lab-1-Zadanie2_3\\Money.cs",
+              "ToolTip": "D:\\Semestr 4\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\OOP_Csharp\\Lab-1-Zadanie2_3\\Lab-1-Zadanie2_3\\Money.cs",
+              "RelativeToolTip": "Lab-1-Zadanie2_3\\Money.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAqwIEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T16:09:44.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semestr 4\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\OOP_Csharp\\Lab-1-Zadanie2_3\\Lab-1-Zadanie2_3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab-1-Zadanie2_3\\Program.cs",
+              "ToolTip": "D:\\Semestr 4\\\u042F\u0437\u044B\u043A\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\OOP_Csharp\\Lab-1-Zadanie2_3\\Lab-1-Zadanie2_3\\Program.cs",
+              "RelativeToolTip": "Lab-1-Zadanie2_3\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwEIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T15:27:22.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab-1-Zadanie2_3\Lab-1-Zadanie2_3\bin\Debug\net8.0\Lab-1-Zadanie2_3.exe
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab-1-Zadanie2_3\Lab-1-Zadanie2_3\bin\Debug\net8.0\Lab-1-Zadanie2_3.deps.json
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab-1-Zadanie2_3\Lab-1-Zadanie2_3\bin\Debug\net8.0\Lab-1-Zadanie2_3.runtimeconfig.json
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab-1-Zadanie2_3\Lab-1-Zadanie2_3\bin\Debug\net8.0\Lab-1-Zadanie2_3.dll
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab-1-Zadanie2_3\Lab-1-Zadanie2_3\bin\Debug\net8.0\Lab-1-Zadanie2_3.pdb
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab-1-Zadanie2_3\Lab-1-Zadanie2_3\obj\Debug\net8.0\Lab-1-Zadanie2_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab-1-Zadanie2_3\Lab-1-Zadanie2_3\obj\Debug\net8.0\Lab-1-Zadanie2_3.AssemblyInfoInputs.cache
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab-1-Zadanie2_3\Lab-1-Zadanie2_3\obj\Debug\net8.0\Lab-1-Zadanie2_3.AssemblyInfo.cs
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab-1-Zadanie2_3\Lab-1-Zadanie2_3\obj\Debug\net8.0\Lab-1-Zadanie2_3.csproj.CoreCompileInputs.cache
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab-1-Zadanie2_3\Lab-1-Zadanie2_3\obj\Debug\net8.0\Lab-1-Zadanie2_3.dll
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab-1-Zadanie2_3\Lab-1-Zadanie2_3\obj\Debug\net8.0\refint\Lab-1-Zadanie2_3.dll
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab-1-Zadanie2_3\Lab-1-Zadanie2_3\obj\Debug\net8.0\Lab-1-Zadanie2_3.pdb
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab-1-Zadanie2_3\Lab-1-Zadanie2_3\obj\Debug\net8.0\Lab-1-Zadanie2_3.genruntimeconfig.cache
+D:\Semestr 4\Языки программирования\OOP_Csharp\Lab-1-Zadanie2_3\Lab-1-Zadanie2_3\obj\Debug\net8.0\ref\Lab-1-Zadanie2_3.dll
